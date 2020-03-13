@@ -19,5 +19,4 @@ fun main(args: Array<String>) {
     // Igualdade estrutural
     println("Resultado com '==' ${d1 == d2}")
     // println("Resultado com 'equals' ${d1.equals(d2)}")
-
 }
