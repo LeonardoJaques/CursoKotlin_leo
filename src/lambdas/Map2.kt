@@ -1,4 +1,4 @@
-package Lambdas
+package lambdas
 
 class Produto(val nome: String, val preco: Double )
 val materialEscolar = listOf(

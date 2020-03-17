@@ -1,4 +1,4 @@
-package Lambdas
+package lambdas
 
 class Calculadora2{
     var resultado = 0

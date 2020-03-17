@@ -1,4 +1,4 @@
-package Lambdas
+package lambdas
 
 data class Casa(var endereco: String = "", var num: Int = 0)
 

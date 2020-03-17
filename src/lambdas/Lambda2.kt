@@ -1,4 +1,4 @@
-package Lambdas
+package lambdas
 
 interface Operacao {
     fun executar(a: Int, b: Int): Int

@@ -1,4 +1,4 @@
-package Lambdas
+package lambdas
 
 fun main(args: Array<String>) {
     val alunos = arrayListOf("Pedro", "Tiago", "Jonas")
